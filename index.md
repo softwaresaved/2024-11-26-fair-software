@@ -289,7 +289,7 @@ of code below the Schedule `<h2>` header below with
       <tr> <td>10:45</td>  <td>Break</td> </tr>
       <tr> <td>11:00</td>  <td>Version Control (cont'd)</td> </tr>
       <tr> <td>12:00</td>  <td>Break</td> </tr>
-      <tr> <td>12:15</td>  <td>Code testing</td> </tr>
+      <tr> <td>12:15</td>  <td>Code readability</td> </tr>
       <tr> <td>13:00</td>  <td>End</td> </tr>
     </table>
   </div>
@@ -297,11 +297,11 @@ of code below the Schedule `<h2>` header below with
     <h3>Day 3, 3 July 2024, 9:30 - 13:00</h3>
     <table class="table table-striped">
       <tr> <td>09:30</td>  <td>Day 2 recap</td> </tr>
-      <tr> <td>09:30</td>  <td>Documenting code</td> </tr>
+      <tr> <td>09:30</td>  <td>Code testing code</td> </tr>
       <tr> <td>10:45</td>  <td>Break</td> </tr>
-      <tr> <td>11:00</td>  <td>Documenting code (cont'd)</td> </tr>
+      <tr> <td>11:00</td>  <td>Code testing (cont'd)</td> </tr>
       <tr> <td>12:00</td>  <td>Break</td> </tr>
-      <tr> <td>12:15</td>  <td>Ethical considerations for code & data</td> </tr>
+      <tr> <td>12:15</td>  <td>Documenting code</td> </tr>
       <tr> <td>13:00</td>  <td>End</td> </tr>
     </table>
   </div>
@@ -313,7 +313,7 @@ of code below the Schedule `<h2>` header below with
       <tr> <td>10:45</td>  <td>Break</td> </tr>
       <tr> <td>11:00</td>  <td>Open project collaboration & management (cont'd)</td> </tr>
       <tr> <td>12:00</td>  <td>Break</td> </tr>
-      <tr> <td>12:15</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>12:15</td>  <td>Ethical considerations for code & data</td> </tr>
       <tr> <td>13:00</td>  <td>End</td> </tr>
     </table>
   </div>
