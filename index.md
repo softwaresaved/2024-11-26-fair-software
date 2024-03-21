@@ -43,7 +43,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">General Information</h2>
 
-This workshop is organised by the [Software Sustainability Institute](https://www.software.ac.uk) (SSI) and is funded by [UK Reproducibility Network](https://www.ukrn.org/) (UKRN).
+This workshop is organised by the [Software Sustainability Institute](https://www.software.ac.uk) (SSI) and is funded by the [UK Reproducibility Network](https://www.ukrn.org/) (UKRN).
 
 {% if site.pilot %}
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
