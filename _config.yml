@@ -53,7 +53,7 @@ pilot: true
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Tools and practices for FAIR research software"
+title: "UKRN Workshop: Tools and Practices for FAIR Research Software"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
