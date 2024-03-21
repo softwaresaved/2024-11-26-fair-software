@@ -51,7 +51,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <p id="audience">
   <strong>Audience:</strong>
-  The workshop is open to colleagues based at [UKRN partner institutions](https://www.ukrn.org/partner-institutions/). Please get in touch with [Steve Boneham](mailto:steven.boneham@newcastle.ac.uk] to check your eligibility.
+  The workshop is open to colleagues based at [UKRN partner institutions](https://www.ukrn.org/partner-institutions/). Please get in touch with [Steve Boneham](mailto:steven.boneham@newcastle.ac.uk) to check your eligibility.
   <br/>
   Please make sure to check the [target audience description](https://carpentries-incubator.github.io/fair-research-software/#target-audience) to check if this course is suitable for you.
 </p>
