@@ -312,23 +312,4 @@ please preview your site before committing, and make sure to run
   Please make sure that you have all the <a target="_blank" href="https://carpentries-incubator.github.io/fair-research-software/#setup">required software</a> installed
   before coming to the workshop. If you are having installation or setup problems - please <a href="#contact>contact the workshop organisers</a> who will be able to assist you. Failing to have a working setup on your machine will slow everyone down at the workshop. 
 </p>
-<p>
-  We maintain a list of common issues that occur during installation as a reference for instructors
-  that may be useful on the
-  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
-</p>
-
-{% comment %}
-For online workshops, the section below provides:
-- installation instructions for the Zoom client
-- recommendations for setting up Learners' workspace so they can follow along
-  the instructions and the videoconferencing
-
-If you do not use Zoom for your online workshop, edit the file
-`_includes/install_instructions/videoconferencing.html`
-to include the relevant installation instructions.
-{% if online != "false" %}
-{% include install_instructions/videoconferencing.html %}
-{% endif %}
-{% endcomment %}
 
