@@ -15,7 +15,7 @@ startdate: 2024-07-01      # machine-readable start date for the workshop in YYY
 enddate: 2024-07-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Sarah Gibson", "Sarah Jaffa", "Kamilla Kopec-Harding", "Aleksandra Nenadic", "Colin Sauze"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["a.nenadic@software.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["a.nenadic@software.ac.uk", "steven.boneham@newcastle.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -43,16 +43,21 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">General Information</h2>
 
-This workshop is organised by the [Software Sustainability Institute](https://www.software.ac.uk) (SSI) and is funded by [UK Reproducibility Network](https://www.ukrn.org/) (UKRN). It is open to individuals coming from UKRN partner institutions.
+This workshop is organised by the [Software Sustainability Institute](https://www.software.ac.uk) (SSI) and is funded by [UK Reproducibility Network](https://www.ukrn.org/) (UKRN).
 
 {% if site.pilot %}
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
 
-AUDIENCE
+<p id="audience">
+  <strong>Audience:</strong>
+  The workshop is open to colleagues based at [UKRN partner institutions](https://www.ukrn.org/partner-institutions/). Please get in touch with [Steve Boneham](mailto:steven.boneham@newcastle.ac.uk] to check your eligibility.
+  <br/>
+  Please bake sure to check the [target audience description](https://carpentries-incubator.github.io/fair-research-software/#target-audience) to check if this course is suitable for you.
+</p>
 
-Explain who your audience is.  (In particular, tell readers if the
-workshop is only open to people from a particular institution.
+[Explain who your audience is.  (In particular, tell readers if the
+workshop is only open to people from a particular institution.](https://carpentries-incubator.github.io/fair-research-software/#target-audience)
 
 {% comment %}
 LOCATION
@@ -88,7 +93,7 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> This training will take place online.
+  <strong>Where:</strong> This training will take place online via Zoom.
   The instructors will provide you with the information you will need to connect to this meeting.
 </p>
 {% endif %}
