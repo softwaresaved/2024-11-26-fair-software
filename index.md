@@ -56,9 +56,6 @@ This is a pilot workshop, testing out a lesson that is still under development. 
   Please bake sure to check the [target audience description](https://carpentries-incubator.github.io/fair-research-software/#target-audience) to check if this course is suitable for you.
 </p>
 
-[Explain who your audience is.  (In particular, tell readers if the
-workshop is only open to people from a particular institution.](https://carpentries-incubator.github.io/fair-research-software/#target-audience)
-
 {% comment %}
 LOCATION
 
