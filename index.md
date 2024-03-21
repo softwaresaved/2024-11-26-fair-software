@@ -85,6 +85,7 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
+{% comment %}
 <p>
 <strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
 href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
@@ -104,17 +105,18 @@ Sign up to receive future editions and read our full archive: <a href="https://c
 {% elsif site.carpentry == "lc" %}
 {% include lc/intro.html %}
 {% endif %}
+{% endcomment %}
 
 {% if site.pilot %}
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
 
-{% comment %}
 AUDIENCE
 
 Explain who your audience is.  (In particular, tell readers if the
 workshop is only open to people from a particular institution.
-{% endcomment %}
+
+{% comment %}
 {% if site.carpentry == "swc" %}
 {% include swc/who.html %}
 {% elsif site.carpentry == "dc" %}
@@ -122,6 +124,7 @@ workshop is only open to people from a particular institution.
 {% elsif site.carpentry == "lc" %}
 {% include lc/who.html %}
 {% endif %}
+{% endcomment %}
 
 {% comment %}
 LOCATION
@@ -170,7 +173,7 @@ This block displays the date and links to Google Calendar.
 {% if page.humandate %}
 <p id="when">
   <strong>When:</strong>
-  {{page.humandate}}.
+  {{page.humandate}},{{page.humantime}} .
   {% include workshop_calendar.html %}
 </p>
 {% endif %}
@@ -226,6 +229,7 @@ special instructions.
   If you have questions or need assistance with the accommodation form please <a href="mailto:team@carpentries.org">email us</a>.
 </p>
 {% endif %}
+{% endcomment %}
 
 {% comment %}
 CONTACT EMAIL ADDRESS
