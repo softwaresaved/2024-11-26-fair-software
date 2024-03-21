@@ -51,7 +51,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <p id="material">
   <strong>Course material:</strong>
-  <a href="https://carpentries-incubator.github.io/fair-research-software/ target="blank">Course material</a> that will be used at the workshop is available online.
+  <a href="https://carpentries-incubator.github.io/fair-research-software/" target="blank">Course material</a> that will be used at the workshop is available online.
 </p>
 
 <p id="audience">
@@ -287,7 +287,7 @@ how one of these schedule tables is constructed.
 {% endcomment %}
 
 {% if site.pilot %}
-The lesson taught in this workshop is being piloted and a precise schedule is yet to be established. The workshop will include regular breaks. Please [contact the workshop organisers](#contact) if you would like more information about the planned schedule.
+The lesson taught in this workshop is being piloted and a precise schedule is yet to be established. The workshop will include regular breaks. Please <a href="#contact">contact the workshop organisers</a> if you would like more information about the planned schedule.
 {% endif %}
 
 <hr/>
