@@ -49,11 +49,14 @@ This workshop is organised by the [Software Sustainability Institute](https://ww
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
 
+<p id="material">
+  <a href="https://carpentries-incubator.github.io/fair-research-software/ target="blank">Course material </a> that will be used at the workshop is available online.
+</p>
 <p id="audience">
   <strong>Audience:</strong>
-  The workshop is open to colleagues based at [UKRN partner institutions](https://www.ukrn.org/partner-institutions/). Please get in touch with [Steve Boneham](mailto:steven.boneham@newcastle.ac.uk) to check your eligibility.
+  The workshop is open to colleagues based at <a target="_blank" href="https://www.ukrn.org/partner-institutions/"><UKRN partner institutions/a>. Please get in touch with <a href="#contact">Steve Boneham</a> to check your eligibility.
   <br/>
-  Please make sure to check the [target audience description](https://carpentries-incubator.github.io/fair-research-software/#target-audience) to check if this course is suitable for you.
+  Please make sure to check the <a target="_blank" href="https://carpentries-incubator.github.io/fair-research-software/#target-audience">target audience description</a> to check if this course is suitable for you.
 </p>
 
 {% comment %}
