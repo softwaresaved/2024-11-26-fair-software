@@ -53,7 +53,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
   <strong>Audience:</strong>
   The workshop is open to colleagues based at [UKRN partner institutions](https://www.ukrn.org/partner-institutions/). Please get in touch with [Steve Boneham](mailto:steven.boneham@newcastle.ac.uk] to check your eligibility.
   <br/>
-  Please bake sure to check the [target audience description](https://carpentries-incubator.github.io/fair-research-software/#target-audience) to check if this course is suitable for you.
+  Please make sure to check the [target audience description](https://carpentries-incubator.github.io/fair-research-software/#target-audience) to check if this course is suitable for you.
 </p>
 
 {% comment %}
@@ -148,12 +148,6 @@ Display the contact email address set in the configuration file.
   to-be-announced
   {% endif %}
   for more information.
-</p>
-
-<p id="roles">
-  <strong>Roles:</strong>
-  To learn more about the roles at the workshop (who will be doing what),
-  refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
 {% comment %}
