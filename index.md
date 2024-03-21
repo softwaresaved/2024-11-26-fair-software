@@ -307,8 +307,8 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  Please make sure that you have all the [required software](https://carpentries-incubator.github.io/fair-research-software/#setup) installed
-  before coming to the workshop. If you are having installation or setup problems - please conctact [contact the workshop organisers](#contact) who will be able to assist you. Failing to have a working setup on your machine will slow everyone down at the workshop. 
+  Please make sure that you have all the <a target="_blank" href="https://carpentries-incubator.github.io/fair-research-software/#setup">required software</a> installed
+  before coming to the workshop. If you are having installation or setup problems - please <a href="#contact>contact the workshop organisers</a> who will be able to assist you. Failing to have a working setup on your machine will slow everyone down at the workshop. 
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
