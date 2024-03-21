@@ -268,12 +268,10 @@ of code below the Schedule `<h2>` header below with
 {% endcomment %}
 
 <h2 id="schedule">Schedule</h2>
-
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1, 1 July 2024, 9:30 - 13:00</h3>
     <table class="table table-striped">
-      <tr> <td>Before</td> <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Pre-workshop survey</a> </td> </tr>
       <tr> <td>09:30</td>  <td>Course introduction</td> </tr>
       <tr> <td>10:00</td>  <td>FAIR reseach software</td> </tr>
       <tr> <td>10:45</td>  <td>Break</td> </tr>
@@ -286,7 +284,8 @@ of code below the Schedule `<h2>` header below with
   <div class="col-md-6">
     <h3>Day 2, 2 July 2024, 9:30 - 13:00</h3>
     <table class="table table-striped">
-      <tr> <td>09:30</td>  <td>Version control</td> </tr>
+      <tr> <td>09:30</td>  <td>Day 1 recap</td> </tr>
+      <tr> <td>10:00</td>  <td>Version control</td> </tr>
       <tr> <td>10:45</td>  <td>Break</td> </tr>
       <tr> <td>11:00</td>  <td>Version Control (cont'd)</td> </tr>
       <tr> <td>12:00</td>  <td>Break</td> </tr>
@@ -297,6 +296,7 @@ of code below the Schedule `<h2>` header below with
     <div class="col-md-6">
     <h3>Day 3, 3 July 2024, 9:30 - 13:00</h3>
     <table class="table table-striped">
+      <tr> <td>09:30</td>  <td>Day 2 recap</td> </tr>
       <tr> <td>09:30</td>  <td>Documenting code</td> </tr>
       <tr> <td>10:45</td>  <td>Break</td> </tr>
       <tr> <td>11:00</td>  <td>Documenting code (cont'd)</td> </tr>
@@ -308,11 +308,12 @@ of code below the Schedule `<h2>` header below with
     <div class="col-md-6">
     <h3>Day 4, 4 July 2024, 9:30 - 13:00</h3>
     <table class="table table-striped">
-      <tr> <td>09:30</td>  <td>Version control</td> </tr>
+      <tr> <td>09:30</td>  <td>Day 3 recap</td> </tr>
+      <tr> <td>09:30</td>  <td>Open project collaboration & management</td> </tr>
       <tr> <td>10:45</td>  <td>Break</td> </tr>
-      <tr> <td>11:00</td>  <td>Version Control (cont'd)</td> </tr>
+      <tr> <td>11:00</td>  <td>Open project collaboration & management (cont'd)</td> </tr>
       <tr> <td>12:00</td>  <td>Break</td> </tr>
-      <tr> <td>12:15</td>  <td>Code testing</td> </tr>
+      <tr> <td>12:15</td>  <td>Wrap-up</td> </tr>
       <tr> <td>13:00</td>  <td>End</td> </tr>
     </table>
   </div>
