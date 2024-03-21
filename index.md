@@ -319,6 +319,6 @@ please preview your site before committing, and make sure to run
 
 <p>
   Please make sure that you have all the <a target="_blank" href="https://carpentries-incubator.github.io/fair-research-software/#setup">required software</a> installed
-  before coming to the workshop. If you are having installation or setup problems - please <a href="#contact>contact the workshop organisers</a> who will be able to assist you. Failing to have a working setup on your machine will slow everyone down at the workshop. 
+  before coming to the workshop. If you are having installation or setup problems - please <a href="#contact">contact the workshop organisers</a> who will be able to assist you. Failing to have a working setup on your machine will slow everyone down at the workshop. 
 </p>
 
