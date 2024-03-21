@@ -122,7 +122,7 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  Participants should have a few specific software packages installed - please make sure to follow the (<a href="#setup">setup instructions</a>).
+  Participants should have a few specific software packages installed - please make sure to follow the <a href="#setup">setup instructions</a>.
 </p>
 
 {% comment %}
@@ -305,7 +305,7 @@ please preview your site before committing, and make sure to run
 
 <p>
   Please make sure that you have all the [required software](https://carpentries-incubator.github.io/fair-research-software/#setup) installed
-  before coming to the workshop. If you are having installation or setup problems - please conctact the course organisers who will be able to help you. Failing to have a working setup on your machine will slow everyone down at the workshop. 
+  before coming to the workshop. If you are having installation or setup problems - please conctact [contact the workshop organisers](#contact) who will be able to assist you. Failing to have a working setup on your machine will slow everyone down at the workshop. 
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
