@@ -286,16 +286,34 @@ of code below the Schedule `<h2>` header below with
   <div class="col-md-6">
     <h3>Day 2, 2 July 2024, 9:30 - 13:00</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>Version Control with Git</td> </tr>
-      <tr> <td>10:30</td>  <td>Morning break</td> </tr>
-      <tr> <td>11:00</td>  <td>Version Control with Git (Continued)</td> </tr>
-      <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td>Managing Data with SQL</td> </tr>
-      <tr> <td>14:30</td>  <td>Afternoon break</td> </tr>
-      <tr> <td>15:00</td>  <td>Managing Data with SQL (Continued)</td> </tr>
-      <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>16:30</td>  <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Post-workshop Survey</a></td> </tr>
-      <tr> <td>16:40</td>  <td>END</td> </tr>
+      <tr> <td>09:30</td>  <td>Version control</td> </tr>
+      <tr> <td>10:45</td>  <td>Break</td> </tr>
+      <tr> <td>11:00</td>  <td>Version Control (cont'd)</td> </tr>
+      <tr> <td>12:00</td>  <td>Break</td> </tr>
+      <tr> <td>12:15</td>  <td>Code testing</td> </tr>
+      <tr> <td>13:00</td>  <td>End</td> </tr>
+    </table>
+  </div>
+    <div class="col-md-6">
+    <h3>Day 3, 3 July 2024, 9:30 - 13:00</h3>
+    <table class="table table-striped">
+      <tr> <td>09:30</td>  <td>Documenting code</td> </tr>
+      <tr> <td>10:45</td>  <td>Break</td> </tr>
+      <tr> <td>11:00</td>  <td>Documenting code (cont'd)</td> </tr>
+      <tr> <td>12:00</td>  <td>Break</td> </tr>
+      <tr> <td>12:15</td>  <td>Ethical considerations for code & data</td> </tr>
+      <tr> <td>13:00</td>  <td>End</td> </tr>
+    </table>
+  </div>
+    <div class="col-md-6">
+    <h3>Day 4, 4 July 2024, 9:30 - 13:00</h3>
+    <table class="table table-striped">
+      <tr> <td>09:30</td>  <td>Version control</td> </tr>
+      <tr> <td>10:45</td>  <td>Break</td> </tr>
+      <tr> <td>11:00</td>  <td>Version Control (cont'd)</td> </tr>
+      <tr> <td>12:00</td>  <td>Break</td> </tr>
+      <tr> <td>12:15</td>  <td>Code testing</td> </tr>
+      <tr> <td>13:00</td>  <td>End</td> </tr>
     </table>
   </div>
 </div>
