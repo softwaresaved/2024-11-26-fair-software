@@ -269,26 +269,36 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule</h2>
 
-{% if site.carpentry == "swc" %}
-{% include swc/schedule.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/schedule.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/schedule.html %}
-{% elsif site.carpentry == "incubator" %}
-This workshop is teaching a lesson in [The Carpentries Incubator](https://carpentries-incubator.org/).
-Please check [the lesson homepage]({{ site.incubator_lesson_site }}) for a list of lesson sections and estimated timings.
-{% endif %}
-
-{% comment %}
-Edit/replace the text above if you want to include a schedule table.
-See the contents of the _includes/custom-schedule.html file for an example of
-how one of these schedule tables is constructed.
-{% endcomment %}
-
-{% if site.pilot %}
-The lesson taught in this workshop is being piloted and a precise schedule is yet to be established. The workshop will include regular breaks. Please <a href="#contact">contact the workshop organisers</a> if you would like more information about the planned schedule.
-{% endif %}
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 1, 1 July 2024, 9:30 - 13:00</h3>
+    <table class="table table-striped">
+      <tr> <td>Before</td> <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Pre-workshop survey</a> </td> </tr>
+      <tr> <td>09:30</td>  <td>Course introduction</td> </tr>
+      <tr> <td>10:00</td>  <td>FAIR reseach software</td> </tr>
+      <tr> <td>10:45</td>  <td>Break</td> </tr>
+      <tr> <td>11:00</td>  <td>Tools and practices for FAIR research software development</td> </tr>
+      <tr> <td>12:00</td>  <td>Break</td> </tr>
+      <tr> <td>12:15</td>  <td>Tools and practices for FAIR research software development (cont'd)</td> </tr>
+      <tr> <td>13:00</td>  <td>End</td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 2, 2 July 2024, 9:30 - 13:00</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td>  <td>Version Control with Git</td> </tr>
+      <tr> <td>10:30</td>  <td>Morning break</td> </tr>
+      <tr> <td>11:00</td>  <td>Version Control with Git (Continued)</td> </tr>
+      <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
+      <tr> <td>13:00</td>  <td>Managing Data with SQL</td> </tr>
+      <tr> <td>14:30</td>  <td>Afternoon break</td> </tr>
+      <tr> <td>15:00</td>  <td>Managing Data with SQL (Continued)</td> </tr>
+      <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>16:30</td>  <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Post-workshop Survey</a></td> </tr>
+      <tr> <td>16:40</td>  <td>END</td> </tr>
+    </table>
+  </div>
+</div>
 
 <hr/>
 
