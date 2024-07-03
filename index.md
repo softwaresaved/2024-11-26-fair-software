@@ -283,7 +283,7 @@ of code below the Schedule `<h2>` header below with
     <h3>Day 3, 3 July 2024, 9:30 - 13:00 BST (UTC+1)</h3>
     <table class="table table-striped">
       <tr> <td>09:30</td>  <td>Day 2 recap</td> </tr>
-      <tr> <td>09:30</td>  <td>Code testing code</td> </tr>
+      <tr> <td>09:30</td>  <td>Code testing</td> </tr>
       <tr> <td>10:45</td>  <td>Break</td> </tr>
       <tr> <td>11:00</td>  <td>Code testing (cont'd)</td> </tr>
       <tr> <td>12:00</td>  <td>Break</td> </tr>
