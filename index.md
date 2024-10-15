@@ -43,8 +43,6 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">General Information</h2>
 
-This workshop is organised by the [Software Sustainability Institute](https://www.software.ac.uk) (SSI) and is funded by the [UK Reproducibility Network](https://www.ukrn.org/) (UKRN).
-
 {% if site.pilot %}
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
@@ -52,13 +50,6 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 <p id="material">
   <strong>Course material:</strong>
   <a href="https://carpentries-incubator.github.io/fair-research-software/" target="blank">Course material</a> that will be used at the workshop is available online.
-</p>
-
-<p id="audience">
-  <strong>Audience:</strong>
-  The workshop is open to colleagues based at <a target="_blank" href="https://www.ukrn.org/partner-institutions/">UKRN partner institutions</a>. Please get in touch with <a href="#contact">Steve Boneham</a> to check your eligibility.
-  <br/>
-  Please make sure to check the <a target="_blank" href="https://carpentries-incubator.github.io/fair-research-software/#target-audience">target audience description</a> to check if this course is suitable for you.
 </p>
 
 {% comment %}
