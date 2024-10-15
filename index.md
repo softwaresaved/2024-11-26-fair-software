@@ -291,8 +291,7 @@ of code below the Schedule `<h2>` header below with
       <tr> <td>10:15</td>  <td>Open project collaboration & management</td> </tr>
       <tr> <td>11:15</td>  <td>Break</td> </tr>
       <tr> <td>11:30</td>  <td>Open project collaboration & management (cont'd)</td> </tr>
-      <tr> <td>12:45</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>13:00</td>  <td>End</td> </tr>
+      <tr> <td>13:00</td>  <td>Wrap-up/End</td> </tr>
     </table>
   </div>
 </div>
