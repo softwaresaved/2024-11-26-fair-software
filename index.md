@@ -218,8 +218,8 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc7tBaQSjy3W5LZSHFMWgGE1Ynw38jGAgdpDamqkiTTv1qL2w/viewform">Pre-workshop Survey</a></p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdPv3BZYMlRIyP5DgWdOuLSwCnLdrd8CiONCRxKIVMgwPY33g/viewform">Post-workshop Survey</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc65v4WQ0fRPpx7ftQLWfowzN3wDozY4WHLGpiwXQZeWjUJLQ/viewform">Pre-workshop Survey</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSepXF8tnoyFuQkLrwwupYuOutOAWE4fAdXb82wYfDZhszi6Lg/viewform">Post-workshop Survey</a></p>
 
 <hr/>
 
