@@ -10,7 +10,7 @@ language: "en"     # lowercase two-letter ISO language code such as "fr" (see ht
 latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "26 - 29 November 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 - 13:00 GMT (UTC + 0)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humantime: "9:15 - 13:00 GMT (UTC + 0)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2024-07-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2024-07-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Kamilla Kopec-Harding", "Sam Mangham", "Colin Sauze"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -251,48 +251,48 @@ of code below the Schedule `<h2>` header below with
   <div class="col-md-6">
     <h3>Day 1, 26 November 2024, 9:00 - 13:00 UTC </h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>Course introduction</td> </tr>
-      <tr> <td>09:30</td>  <td>FAIR reseach software</td> </tr>
-      <tr> <td>10:00</td>  <td>Break</td> </tr>
-      <tr> <td>11:15</td>  <td>Tools and practices for FAIR research software development</td> </tr>
-      <tr> <td>12:15</td>  <td>Break</td> </tr>
-      <tr> <td>12:30</td>  <td>Tools and practices for FAIR research software development (cont'd)</td> </tr>
+      <tr> <td>09:15</td>  <td>Course introduction</td> </tr>
+      <tr> <td>09:45</td>  <td>FAIR reseach software</td> </tr>
+      <tr> <td>10:15</td>  <td>Break</td> </tr>
+      <tr> <td>10:30</td>  <td>Tools and practices for FAIR research software development</td> </tr>
+      <tr> <td>11:30</td>  <td>Break</td> </tr>
+      <tr> <td>11:45</td>  <td>Tools and practices for FAIR research software development (cont'd)</td> </tr>
       <tr> <td>13:00</td>  <td>End</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 2, 27 November 2024, 9:00 - 13:00 UTC</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>Day 1 recap</td> </tr>
-      <tr> <td>09:15</td>  <td>Version control</td> </tr>
-      <tr> <td>10:00</td>  <td>Break</td> </tr>
-      <tr> <td>10:15</td>  <td>Version Control (cont'd)</td> </tr>
-      <tr> <td>11:15</td>  <td>Break</td> </tr>
-      <tr> <td>11:30</td>  <td>Code readability</td> </tr>
+      <tr> <td>09:15</td>  <td>Day 1 recap</td> </tr>
+      <tr> <td>09:30</td>  <td>Version control</td> </tr>
+      <tr> <td>10:15</td>  <td>Break</td> </tr>
+      <tr> <td>10:30</td>  <td>Version Control (cont'd)</td> </tr>
+      <tr> <td>11:30</td>  <td>Break</td> </tr>
+      <tr> <td>11:45</td>  <td>Code readability</td> </tr>
       <tr> <td>13:00</td>  <td>End</td> </tr>
     </table>
   </div>
     <div class="col-md-6">
     <h3>Day 3, 28 November 2024, 9:00 - 13:00 UTC</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>Day 2 recap</td> </tr>
-      <tr> <td>09:15</td>  <td>Code testing</td> </tr>
-      <tr> <td>10:00</td>  <td>Break</td> </tr>
-      <tr> <td>10:15</td>  <td>Code testing (cont'd)</td> </tr>
-      <tr> <td>11:15</td>  <td>Break</td> </tr>
-      <tr> <td>11:30</td>  <td>Documenting code</td> </tr>
+      <tr> <td>09:15</td>  <td>Day 2 recap</td> </tr>
+      <tr> <td>09:30</td>  <td>Code testing</td> </tr>
+      <tr> <td>10:15</td>  <td>Break</td> </tr>
+      <tr> <td>10:30</td>  <td>Code testing (cont'd)</td> </tr>
+      <tr> <td>11:30</td>  <td>Break</td> </tr>
+      <tr> <td>11:45</td>  <td>Documenting code</td> </tr>
       <tr> <td>13:00</td>  <td>End</td> </tr>
     </table>
   </div>
     <div class="col-md-6">
     <h3>Day 4, 29 November 2024, 9:00 - 13:00 UTC</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>Day 3 recap</td> </tr>
-      <tr> <td>09:15</td>  <td>Documenting code (cont'd)</td> </tr>
-      <tr> <td>10:00</td>  <td>Break</td> </tr>
-      <tr> <td>10:15</td>  <td>Open project collaboration & management</td> </tr>
-      <tr> <td>11:15</td>  <td>Break</td> </tr>
-      <tr> <td>11:30</td>  <td>Open project collaboration & management (cont'd)</td> </tr>
+      <tr> <td>09:15</td>  <td>Day 3 recap</td> </tr>
+      <tr> <td>09:30</td>  <td>Documenting code (cont'd)</td> </tr>
+      <tr> <td>10:15</td>  <td>Break</td> </tr>
+      <tr> <td>10:30</td>  <td>Open project collaboration & management</td> </tr>
+      <tr> <td>11:30</td>  <td>Break</td> </tr>
+      <tr> <td>11:45</td>  <td>Open project collaboration & management (cont'd)</td> </tr>
       <tr> <td>13:00</td>  <td>Wrap-up/End</td> </tr>
     </table>
   </div>
