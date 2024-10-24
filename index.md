@@ -249,7 +249,7 @@ of code below the Schedule `<h2>` header below with
 <h2 id="schedule">Schedule</h2>
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1, 26 November 2024, 9:00 - 13:00 UTC </h3>
+    <h3>Day 1, 26 November 2024, 09:15 - 13:00 UTC </h3>
     <table class="table table-striped">
       <tr> <td>09:15</td>  <td>Course introduction</td> </tr>
       <tr> <td>09:45</td>  <td>FAIR reseach software</td> </tr>
@@ -261,7 +261,7 @@ of code below the Schedule `<h2>` header below with
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 2, 27 November 2024, 9:00 - 13:00 UTC</h3>
+    <h3>Day 2, 27 November 2024, 09:15 - 13:00 UTC</h3>
     <table class="table table-striped">
       <tr> <td>09:15</td>  <td>Day 1 recap</td> </tr>
       <tr> <td>09:30</td>  <td>Version control</td> </tr>
@@ -273,7 +273,7 @@ of code below the Schedule `<h2>` header below with
     </table>
   </div>
     <div class="col-md-6">
-    <h3>Day 3, 28 November 2024, 9:00 - 13:00 UTC</h3>
+    <h3>Day 3, 28 November 2024, 09:15 - 13:00 UTC</h3>
     <table class="table table-striped">
       <tr> <td>09:15</td>  <td>Day 2 recap</td> </tr>
       <tr> <td>09:30</td>  <td>Code testing</td> </tr>
@@ -285,7 +285,7 @@ of code below the Schedule `<h2>` header below with
     </table>
   </div>
     <div class="col-md-6">
-    <h3>Day 4, 29 November 2024, 9:00 - 13:00 UTC</h3>
+    <h3>Day 4, 29 November 2024, 09:15 - 13:00 UTC</h3>
     <table class="table table-striped">
       <tr> <td>09:15</td>  <td>Day 3 recap</td> </tr>
       <tr> <td>09:30</td>  <td>Documenting code (cont'd)</td> </tr>
